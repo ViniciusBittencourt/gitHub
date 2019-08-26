@@ -1,3 +1,3 @@
 Readme.md
 # Git Course
-Este é um red
+Este é um texto para o meu primeiro commit no GitHub.
